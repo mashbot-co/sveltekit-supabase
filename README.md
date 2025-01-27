@@ -108,3 +108,10 @@ Contributions are welcome! Please feel free to submit a PR or open an issue.
 ## Thanks
 
 Shout out to [Davis Media](https://github.com/Davis-Media) for building the base template for this project! 🤙
+
+# Foundry Updates
+
+1. delete the .env.example
+2. delete supabase
+3. delete pnpm-lock.yaml
+4. update the package.json package name
